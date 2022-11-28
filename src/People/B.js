@@ -1,0 +1,49 @@
+import React from "react"
+import "../App.css"
+
+export default function B(){
+    return (
+        <div className="fondoB">
+            <section>
+                <h1 className="tituloMenu">Para Bárbara</h1>
+                <p className="parrafoB">La idea de todo esto es funcionar como "capsula de tiempo", para que alguien lo lea dentro de muchos años o para poder decirte algo más si es que me pasó algo y ya no puedo hacerlo una última vez. Después tengo que averiguar cómo hacer que te llegue la página para que puedas verlo, ¿algún timer o alarma que te mande un mensaje si no lo apago? Puede ser.</p>
+                <p className="parrafoB">Hay una frase de Dostoievski que dice "¿Pero como podrías vivir sin tener una historia para contar?" que me hace acordar a como siempre deciamos que eramos los dos protagonistas de una novela y aca voy a escribir la historia de esa novela.</p>
+                <p className="parrafoB">Pongamos en contexto todo: Marzo del 2016. Todo el colegio con el rumor caliente en la boca de que "la mejor amiga de Malena Barreto" estaba llegando al colegio, los chicos nos juntabamos en grupos a escuchar como alguien oyó que "era completamente hermosa" y las chicas empezaban a ponerse celosa de la susodicha. Pasados unos días me encontraba sentado con Santiago Storni en la fila de la derecha del salón. Un salón que estaba frente al patio deportivo del colegio. En frente nuestro estaba Priscila Gonzalez, sola por ahora. Mientras el resto del salón tenia la vida que cualquier salón de colegio secundario tiene (chismeas,tareas y juegos) entra por la puerta Bárbara Cassini, dando saltitos con cada paso que daba (años después descubrí que eso le sucedía cuando estaba muy nerviosa o muy feliz). Obviamente yo, Franco Valente, no sabía que hacer cuando se sentó delante mío, ¿hablar o no hablar? ¿presentarme? ¿respirar?. Ahí empezó la novela. Pasar de desconocidos a mejores amigos, de mejores amigos a novios y de novios a desconocidos no es tarea que cualquiera pueda hacer sin sufrir algunos golpes en el medio.</p>
+                <p className="parrafoB">Vivimos de todo, desde odiar al otro por comentarios de nene (perdón jeje). Algunos de mis recuerdos favoritos del secundario son:
+                    <ul>
+                        <li>"Callate que seguro me tenés ganas" - Barbara Cassini en un ataque de autoestima la muy conchuda.</li>
+                        <li>Vos entrando corriendo a la entrada, buscándome y abrazándome con lágrimas en los ojos para que por lo menos durante un segundo te olvidaras de todo.</li>
+                        <li>Cada dia mientras almorzabamos que te llevabas ensalada quería quedarme al lado tuyo y hablarte para siempre, pero obviamente no me iba a animar (verlo en retrospectiva me hace querer volver a cambiarlo todo desde el primer dia).</li>
+                        <li>Siempre que Arturo te hacia llorar me daban ganas de matarlo y de matarte a vos por elegir semejante boludo.</li>
+                        <li>Me MORIA de celos cada vez que le dabas la mano a Ponce o apoyabas tu cabeza en su hombro, siempre queria cambiarle de lugar y nunca me quería cambiar.</li>
+                        <li>La primer canción que escuchamos juntos fue "The Wrong Direction" de Passenger, durante la clase de Inglés.</li>
+                        <li>Al final si te tenía ganas pero no te iba a decir para no darte la razón bb.</li>
+                    </ul>
+                <p> Y mis recuerdos favoritos post secundario son: </p>
+                    <ul>
+                        <li>Despues de nuestro primer beso, me fui sonriendo hasta casa, y esa sonrisa no se borró de mi cara durante un mes. Te lo juro.</li>
+                        <li>La playlist que armamos juntos (sigue ahí "Silly Love Songs").</li>
+                        <li>La vez que fuimos hasta tu universidad y no apoyabas tu cabeza en mi hombro a la vuelta a pesar de que ambos queríamos eso.</li>
+                        <li>Cuando ibamos a comprar en frente de tu casa, no sé por qué, pero siempre me gustaba hacerlo con vos.</li>
+                        <li>Tu reacción cuando te regalé el Grey's Anatomy. Me sigue haciendo más que feliz acordarme de eso.</li>
+                        <li>Ese día que yo hacía café mientras nos grababas, todavía tengo ese video en Google Fotos. Cuando me abrazas de atrás y te quedas con los ojos cerrados sonriendo, no necesito nada más en la vida que ver eso.</li>
+                        <li>Estar acostados en tu cama tapados con las hormonas por el techo.</li>
+                        <li>Acordarme que nunca lavaste esa frazada y me vas a clonar.</li>
+                        <li>El día que fuimos al Ateneo.</li>
+                        <li>Cómo me mordías los brazos.</li>
+                        <li>Tu carita de felicidad cuando me diste a probar las tapitas de alfajor que según vos te salieron mal pero te dije que me encantaban y me comi las pocas que me dejo tu familia jaja.</li>
+                    </ul>
+                </p>
+                <p className="parrafoB">Sos la persona más inteligente que conozco, la más determinada, la que si tengo una tarea imposible que nadie va a poder hacer, si vos me decis que podés no voy a dudar ni un sólo segundo de que podés hacerlo. Siempre quise poder ser tan inteligente como vos, y posiblemente lo sea, pero ¿tu disciplina? Uf, eso no lo voy a tener nunca, sos la mujer más disciplinada que conozco y te admiro y te aplaudo Bárbara. Con una sola mirada, un roce de manos o un dato medico que aprendiste hoy antes de que me hables ya me tenías enamorado completamente, ¿querías que escale el Everest? Lo hacia sin dudar un segundo. ¿Pasaron cosas malas? Si. Pero si me dan a revivir un día por toda la vida elijo ese dia en la plaza, donde estabamos tirados en el pasto escuchando música re cagados de frío. Dónde estabas yendo tarde a tu clase en IPEF y seguiamos acostados ahí, abrazados casi, chocando narices y no me animé hasta que no me dijiste "Sos un cagón"... Imaginate que no me decias eso, que chabon cagon che. Desde ese día en adelante me hiciste algo, me cambiaste algo adentro y nunca más dejé de amarte, por más que te haya dicho que tus mensajes no me hacian felices ese día del 2021, cuando me di cuenta que nunca dejé de amarte ya fue muy tarde. Espero que por favor, nunca cambies, nunca dejes de ser esa chica feliz por cocinar algo que vio en TikTok, que encontraba la felicidad en estudiar desde las 6 de la mañana para su parcial, que con cada giro en patín se llenaba más de energía y ni te digo de cuando le salía uno dificil, eras la chica más feliz que conocía (y bueno, con el autoestima en el techo obvio). Nunca dejés que nadie te haga cambiar, sos suficiente tal y como sos. Sos hermosa tal y como sos, con cada mueca y locura que puedas encontrar. Desde mentir y hacer una mueca con la nariz hasta a rebotar con cada pasito cuando estás nerviosa o feliz. Por favor, nunca dejes de ser las cosas que te hacen ser vos, y que también te hacen ser feliz. Te amo Bárbara Cassini, hoy y siempre. Nunca te voy a olvidar y nunca en mi vida te voy a cerrar la puerta, estás invitada a hablarme siempre que quieras, como y por lo que sea. Cuidate b. Franco out.</p>
+            </section>
+            <section>
+                <h1 className="tituloMenu">"O Romeo, Romeo, wherefore art thou Romeo?"</h1>
+                <p className="parrafoB">28/08/2022</p>
+                <p className="parrafoB">Deje pasar un tiempo para poder escribir con "la mente clara", igual sigue siendo dificil, pensá que ayer soñe con vos, y anteayer también.</p>
+                <p className="parrafoB">Estoy aprendiendo a usar React JS, el lenguaje pija en el que estoy armando esto (te uso de excusa para aprender y hacer algo productivo, de paso queda menos tétrico también) asi que si ves algo raro o ya aprendiste a programar y ves que está todo mal hecho callate, porque estoy aprendiendo nerd. No todos somos médica-programadora-personal trainer-patinadora-biotecnologa y anda a saber qué otro titulo tenes ahora si siempre estas queriendo aprender más y sumar titulos (tenerte de competencia en la vida me la hace interesante) a la pared de tu oficina.</p>
+                <p className="parrafoB">De a poco trato de convencerme que ya terminó todo, que seguir pensando en vos es (carajo, empezó una canción que te cantaba cuando volvia caminando de rugby "Make You Mine" y me hace sonreir) vivir anclado a un recuerdo o a algo que no va a pasar (podés decirle un "sueño" o un "final feliz") y es muy probable que no pase ni una ni otra asi que de a poco tengo que dejarte ir y tratar de seguir adelante. Mi mamá me dijo que tengo que ver a más personas, igual, me dice eso y después me dice que por ahi me hace más feliz quedarme... vieja, si me quedo voy a ir a la casa de Barbarita a buscarla con flores todos los dias hasta que me de otra chance.</p>
+                <p className="parrafoB">Siempre que subo algo aparecen bots mirandome las historias y me pregunto si sos vos. Inclusive te escribí algunas veces a tu perfil falso, pero nunca más viste esos mensajes, o no vi que los veas, así que es lo mismo que la nada, es hablarle a la pared (¿No podías ser una pared más fea como Luciana?). Por suerte espero ser un recuerdo lindo para vos, y que no me hayas olvidado como amigo por lo menos, porque yo ciertamente no te olvidé en nada. Soy lo que soy gracias a vos, por más que digas que fue esfuerzo mío y bla bla bla. No hubiera nunca puesto metas tan altas en mi vida si al lado no tenía a la chica más inteligente y densa del planeta diciendome "Me saque un 10 y vos no ja" (me haces sonreir con esos recuerdos). Tenía que hacer dos cosas: A) Ganarte y B) Enamorarte, ambos sabemos que alguien promedio no puede hacer eso asi que estoy justificado.</p>
+            </section>
+        </div>
+    )
+}
