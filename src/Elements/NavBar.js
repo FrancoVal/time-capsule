@@ -8,8 +8,14 @@ export default function props() {
       <Link to="/homePage" className="menu-item">
         Página principal
       </Link>
-      <Link to="/b" className="menu-item">
-        Comentarios para vos
+      <Link to="/create" className="menu-item">
+        Crear usuarios
+      </Link>
+      <Link to="/search" className="menu-item">
+        Buscar usuarios
+      </Link>
+      <Link to="/update" className="menu-item">
+        Actualizar usuarios
       </Link>
     </Menu>
   );

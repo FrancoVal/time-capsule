@@ -1,9 +1,9 @@
 import './App.css';
-import HomePage from './HomePage'
+import HomePage from './Elements/HomePage'
 
 export default function App() {
   return (
-    <div>
+    <div className='mainMenu'>
       <HomePage />
     </div>
   );
